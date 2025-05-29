@@ -1,1 +1,91 @@
+Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+    Refinando o 'código':
+
+    1. Ler [a];   # ler [a]   scan [a]   input [a]                
+    2. Ler [b];
+    3. [soma] = [a] + [b];
+    4. Mostre [soma].  # print [soma]    show [soma]     output [soma]
+
+ Q4 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a diferença de 'a' menos 'b';
+    3. Mostre o resultado dessa diferença.
+
+   Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] - [b];
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [diferença] = [a] - [b];
+    3. Mostre [diferença].
+
+   Refinando o 'código':
+
+    1. Ler [a];   # ler [a]   digitalizar [a]   entrada [a]                
+    2. Ler [b];
+    3. [diferença] = [a] - [b];
+    4. Mostre [diferença].  # print [diferença]    show [diferença]     output [diferença]
+
+
+Q5 -  Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+
+ 1. Leia os números 'a' e 'b';
+    2. Calcule a produto de 'a' multiplique 'b';
+    3. Mostre o resultado desse produto.
+
+   Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] * [b];
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [produto] = [a] * [b];
+    3. Mostre [produto].
+
+   Refinando o 'código':
+
+    1. Ler [a];   # ler [a]   digitalizar [a]   entrada [a]                
+    2. Ler [b];
+    3. [produto] = [a] * [b];
+    4. Mostre [produto].  # print [produto]    show [produto]     output [produto]
+
+
+
+
 
