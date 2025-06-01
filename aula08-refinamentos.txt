@@ -109,5 +109,3 @@ Q5 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o q
     2. Ler [b];
     3. [quociente] = [a] / [b];
     4. Mostre [quociente].  # print [quociente]    show [quociente]     output [quociente]
-
-
