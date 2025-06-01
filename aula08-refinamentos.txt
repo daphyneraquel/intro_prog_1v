@@ -12,7 +12,7 @@ Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre 
 Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
 
     1. Leia os números 'a' e 'b';
-    2. Calcule a soma de 'a' mais 'b';
+    2. Calcule a soma de 'a' e 'b';
     3. Mostre o resultado dessa soma.
 
     Refinando o 'código':
@@ -37,7 +37,7 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a s
  Q4 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
 
     1. Leia os números 'a' e 'b';
-    2. Calcule a diferença de 'a' menos 'b';
+    2. Calcule a diferença de 'a' e 'b';
     3. Mostre o resultado dessa diferença.
 
    Refinando o 'código':
@@ -62,14 +62,14 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a s
 
 Q5 -  Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
 
- 1. Leia os números 'a' e 'b';
-    2. Calcule a produto de 'a' multiplique 'b';
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' e 'b';
     3. Mostre o resultado desse produto.
 
    Refinando o 'código':
 
     1. Leia os números [a] e [b];
-    2. Calcule a diferença de [a] * [b];
+    2. Calcule o produto de [a] * [b];
     3. Mostre o resultado desse produto.
 
     Refinando o 'código':
@@ -85,7 +85,29 @@ Q5 -  Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o 
     3. [produto] = [a] * [b];
     4. Mostre [produto].  # print [produto]    show [produto]     output [produto]
 
+Q5 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
 
+    1. Leia os números 'a' e 'b';
+    2. Calcule o quociente de 'a' e 'b';
+    3. Mostre o resultado dessa divisão.
 
+   Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o quociente de [a] / [b];
+    3. Mostre o resultado dessa divisão.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [quociente] = [a] / [b];
+    3. Mostre [quociente].
+
+   Refinando o 'código':
+
+    1. Ler [a];   # ler [a]   digitalizar [a]   entrada [a]                
+    2. Ler [b];
+    3. [quociente] = [a] / [b];
+    4. Mostre [quociente].  # print [quociente]    show [quociente]     output [quociente]
 
 
